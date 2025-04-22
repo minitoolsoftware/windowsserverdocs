@@ -72,4 +72,4 @@ Disk Management supports a wide range of drive tasks, but some tasks need to be 
 - [Create a recovery drive](https://support.microsoft.com/windows/create-a-recovery-drive-abb4691b-5324-6d4a-8766-73fab304c246)
 - [Create a system restore point](https://support.microsoft.com/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9)
 - [Find your BitLocker recovery key](https://support.microsoft.com/windows/find-your-bitlocker-recovery-key-6b71ad27-0b89-ea08-f143-056f5ab347d6)
-- [The Ultimate Guide to Windows Disk Management](https://www.google.com/url?client=internal-element-cse&cx=975f4080b7d7a492f&q=https://www.partitionwizard.com/partitionmagic/windows-disk-management-full-guide.html)
+- [The Ultimate Guide to Windows Disk Management](https://www.partitionwizard.com/partitionmagic/windows-disk-management-full-guide.html)
